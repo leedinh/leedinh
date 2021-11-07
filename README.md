@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on crazy things
 - 🌱 I’m currently learning Computer Science
 - 🤔 I’m looking for help with my assignments
-- 💬 Ask me about PWN
+- 💬 Ask me about anything
 - 📫 How to reach me: [here](URL 'https://www.facebook.com/leedinhhh3006/')
 - ⚡ Fun fact: Im not a wjbu
